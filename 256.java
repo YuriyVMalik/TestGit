@@ -47,4 +47,8 @@ User2 (addGit)
 User2 (addGit)
 
 
+<<<<<<< HEAD
 User2 ()
+=======
+User1 ()
+>>>>>>> 58e4bee6bf6e1d51a32e3fdb7b69e675850ba0ec
